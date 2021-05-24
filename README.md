@@ -8,3 +8,13 @@ this is my description text
 
 
 #this is the test demo third
+
+
+Following the above command will back out any changes made to the specified file and replace it with the version last committed in Git
+
+
+Following the above command will back out any changes made to the specified file and replace it with the version last committed in Git
+
+
+Following the above command will back out any changes made to the specified file and replace it with the version last committed in Git
+Following the above command will back out any changes made to the specified file and replace it with the version last committed in Git
